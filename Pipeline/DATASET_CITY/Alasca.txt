@@ -1,0 +1,50 @@
+
+
+Alasca (inglês: Alaska) é o maior estado dos Estados Unidos. Separado do resto do país pelo Canadá, o Alasca fica no Círculo Polar Árctico.
+
+{{lista de regiões
+| mapa=Alaska regions map.png
+| mapatexto=
+| mapatamanho=600px
+
+| região1nome=Alasca Sudeste
+| região1cor=#a1d092
+| região1itens=
+| região1descrição=Aqui ficam Juneau, capital e terceira maior cidade da província; Panhandle  Inland Passage
+
+| região2nome=Alasca Centro-Sul
+| região2cor=#d092cc
+| região2itens=
+| região2descrição=Aqui ficam Anchorage, a maior cidade do estado, e a Península de Kenai.
+
+| região3nome=Alasca Sudoeste
+| região3cor=#d0b292
+| região3itens=
+| região3descrição=Aqui ficam Península do Alasca, Ilhas Aleutas e outras ilhas
+
+| região4nome=Alasca Central
+| região4cor=#d09299
+| região4itens=
+| região4descrição=Aqui fica Fairbanks, a segunda maior cidade do estado.
+
+| região5nome=Alasca Árctico
+| região5cor=#92aed0
+| região5itens=
+| região5descrição=Aqui ficam Barrow, Nome, Kotzebue
+}}
+
+Em 1867, o Alasca foi comprado aos russos por US$7.2 milhões (cerca de 2 cêntimos por acre). As pessoas achavam este estado uma terra gelada, sem perceberem que se tornaria uma das maiores fontes de combústivel e ouro dos Estados Unidos da América. Foi preciso esperar até 1959 para o Alasca se tornar um estado da união.
+
+{| style=float: right; margin: 0 0 1em 1em; border: 1px solid #9866FF; background-color: #f3f3ff width=200
+! style=text-align: center; border-bottom: 1px solid #C9AFFF; background-color: #ddddff | Bandeira do estado de Alaska
+|-
+| align=center style=padding: 2px; | File:Flag of Alaska.svg|108px
+|}
+A Bandeira do Estado do Alasca, adoptada em 1927, foi desenhada por Benny Benson, um estudante de 13 anos. É composta por 8 estrelas amarelas que representam a Ursa Maior e a Estrela Polar. A Ursa Maior tem a forma de um urso, animal indígena do Alasca. A Estrela Polar afirma o Alasca como o estado mais a norte dos Estados Unidos da América.
+
+Turismo - Oferecendo roteiros com guia falando português.
+
+A língua usada no estado é o inglês (Ver Guia de conversação inglês).
+
+Entre as comidas tradicionais do Alasca encontra-se o Akutaq, mais conhecida por Gelado Esquimó, as Stinkheads (cabeças de salmão fermentadas) e Sopa de Cabeça de Salmão.
+

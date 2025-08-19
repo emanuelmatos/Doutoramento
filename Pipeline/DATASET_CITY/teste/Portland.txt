@@ -1,0 +1,209 @@
+
+
+Portland é uma cidade da Oregon.
+
+| nome=Powells City of Books | alt= | site=| email=
+| endereço=1005 W Burnside St  | lat=45.5234 | long=-122.6815 | direções=
+| tel=503-228-4651
+| funcionamento=9h-23h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Uma gigante loja de livros novos e usados, ocupando um quarteirão inteiro no centro de Portland. É valida a visita mesmo que não pretenda comprar livros pelo tamanho e acervo variado.
+}}
+
+| nome=Lloyd Center | alt= | site=| email=
+| endereço=2201 Lloyd Center | lat=45.5325 | long=-122.6536 | direções=Acessível via linhas de MAX vermelha, azul e verde.
+| tel=+1 503-282-2511
+| funcionamento=seg-sab 10h-21h, dom 11h-18h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Grande shopping center localizado na região leste da cidade, próxima ao Centro de Conveções.
+}}
+| nome=Pioneer Place | alt= | site=       | email=
+| endereço=700 SW Fifth Ave | lat=45.51838 | long=-122.67730 | direções=
+| tel=+! 503-228-5800
+| funcionamento=seg-sab 10h-20h, dom 11h-18h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Shopping center localizado na região central e com lojas mais caras que o Lloyd Center.
+}}
+
+| nome=Voodoo Doughnut | alt= | site=| email=
+| funcionamento=Aberto 24 horas
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Parada obrigatória onde você pode comer donuts inusitados e bem diferentes do comum. As estrelas da casa são os donuts cobertos com cereal, bolachas, bacon (sim, bacon) ou em formatos diferenciados, como o de uma boneca voodoo. O local fica extremamente cheio em horário de pico e uma longa fila se forma dando voltas no quarteirão.
+}}
+| nome=Voodoo Doughnut | alt= | site= | email=
+| endereço=22 SW 3rd Ave | lat=45.52266 | long=-122.67311 | directions=
+| tel=+1 503-241-47 | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=
+}}
+| nome=Voodoo Doughnut too | alt= | site= | email=
+| endereço=1501 NE Davis St | lat=45.52445 | long=-122.65044 | directions=
+| tel=503-235-2666 | tollfree=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=
+}}
+| nome=Pine Street Market | alt= | site=| email=
+| endereço=126 SW 2nd Ave | lat=45.52145 | long=-122.67234 | direção=
+| funcionamento=8h-22h | price=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Nove restaurantes servindo comidas de diferentes estilos em um local casual localizado em um prédio histórico de Portland.
+}}
+| nome=Pambiche | alt= | site=| email=
+| endereço=2811 NE Glisan Street | lat=45.52655 | long=-122.63693 | direções=
+| tel=+1 503-233-0511
+| funcionamento=seg-qui 11h-22h, sex 11h-24h, sab 9h-24h, dom 9h-22h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Restaurante cubano com pratos tradicionais e deliciosas sobremesas
+}}
+| nome=Lúc Lác | alt= | site=| email=
+| endereço=835 SW 2ND AVE | lat=45.51689 | long=-122.67541 | direções=
+| tel=+1 503-222-0047
+| funcionamento=11h-14:30, 4h-12h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Restaurante vietnamita servindo deliciosos pho (ensopado), vermicelli (macarrão de arroz), Banh Mi (sanduiches) e outros pequenos pratos vietnamitas.
+}}
+| nome=TILT | alt= | site=| email=
+| endereço=1355 NW EVERETT ST. SUITE 120 | lat=45.52530 | long=-122.68448 | direções=
+| tel=503-894-9528
+| funcionamento=dom-qui 7h-23h, sex-sab 7h-24h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Hamburgueria em um ambiênte casual e com decoração industrial. Várias opções de tortas para sobremesa.
+}}
+| nome=Killer Burger | alt= | site=| email=
+| endereço=510 SW 3rd Ave | lat=45.45962 | long=-122.64682 | direções=
+| tel=503-946-8946
+| funcionamento=dom-qui 11h-22h, sex-sab 11h-24h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Melhor descrição: todos os hamburgueres incluem bacon e batatas fritas
+}}
+| nome=New Seasons Market - Slabtown| alt= | site=| email=
+| endereço=2170 Northwest Raleigh Street  | lat=45.53403 | long=-122.69621 | direções=
+| tel=503-224-7522
+| funcionamento=8h-23h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Rede de supermercado local com foco em produtos orgânicos e mais natural. Seção de produtos prontos oferece sopas, sanduíches, saladas e opções de sobremesa num preço acessivel
+
+}}
+
+| nome=Famous Daves BBQ | alt= | site=| email=
+| endereço=9911 NE Cascades Parkway | lat=45.57404 | long=-122.56033 | direções=
+| tel=+1 503-493-9000
+| funcionamento=dom-qui 11h-22h, sex-sab 11h-23h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Menu contem os tradicionais pratos do churrasco americano, como costela de porco ao molho barbecue, brisket assado e frango.
+}}
+| nome=Buffalo Wild Wings | alt= | site=| email=
+| endereço=327 SW MORRISON STREET | lat=45.51859 | long=-122.67622 | direções=
+| tel=503-224-1309
+| funcionamento=seg-qui 11h-24h, sex-sab 11h-2h, dom 11h-22:30 | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Sport bar com tradicionais coxinhas de frango fritas temperadas com molhos que vão do neutro até o absurdamente apimentado. Lugar bom para grupos grandes.
+}}
+| nome=Cadillac Cafe | alt= | site=| email=
+| endereço=1801 NE Broadway St. | lat=45.53516 | long=-122.64747 | direções=
+| tel=503-287-4750
+| funcionamento=seg-sex 7h-14h, sab-dom: 7h-15h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Ótimo restaurante para um café da manhã típico americano em um local agradavel. Cafe da manhã servido durante todo o dia
+}}
+| nome=The Original - a dinerant | alt= | site=| email=
+| endereço=300 SW 6TH Avenue | lat=45.52148 | long=-122.67707 | direções=
+| tel=503-546-2666
+| funcionamento=seg-qui 6:30-22h, sex 6:30-24h, sab 7:30-24h, dom 7:30-22h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Menu de um diner americano, mas em um local requintado. Ótimo para café da manhã, brunch ou almoço. É sugerido reservar caso não queira aguardar para conseguir uma mesa.
+}}
+| nome=Salt N Straw | alt= | site=| email=
+| endereço=838 NW 23rd Ave.  | lat=45.52895 | long=-122.69830 | direções=
+| tel=971-271-8168
+| funcionamento=10h-23h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Sorveteria com sabores diferenciados. Incluida na lista de melhores sorveterias dos Estados Unidos.
+}}
+
+| nome=Andina | alt= | site=| email=
+| endereço=1314 NW Glisan St | lat=45.5263 | long=-122.6846 | direções=
+| tel=+1 503-228-9535
+| funcionamento=Almoço 11:30AM-2:30PM; jantar dom-qui 5h-21:30, sex-sab 5h-22:30 | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Restaurante peruano com ótima seleção de platas bem como pratos peruanos tradicionais e contemporâneos.
+}}
+| nome=Fogo de chão | alt= | site=| email=
+| endereço=930 SW 6th Ave | lat=45.51712 | long=-122.67932 | direções=
+| tel=+1 503-241-0900
+| funcionamento=M-F 11:30AM-2PM 4:30PM-9:30PM, Sa-Su 11:30AM-9PM | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Autentico rodizio brasileiro de carnes. Garçons e atendentes são na maioria brasileiros.
+}}
+| nome=Portland City Grill | alt= | site=| email=
+| endereço=111 SW 5th Ave, 30o. andar do Unico/US Bancorp Tower | lat=45.5227 | long=-122.6759 | direções=
+| tel=+1 503-450-0030
+| funcionamento=Almoço seg-sex 11h-16h; jantar seg-qui 4h-24h, sex-sab 16h-1h, dom 16h-23h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Restaurante exuberante e ótima opção para um jantar romântico. Caso consiga uma mesa próxima a janela (é recomendado reservar) terá uma bela vista da cidade de Portland.
+}}
+
+| nome=McMenamins Crystal Ballroom | alt= | site=| email=
+| endereço=1332 W Burnside St | lat=45.52274 | long= -122.68482 | direções=
+| tel=+1 503-225-0047
+| funcionamento= | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Uma das boates mais famosas da cidade. Realiza uma grande diversidade de apresentações musicais, como shows de rock, DJs de musica eletronia e festas de anos 90 ou 80.
+}}
+| nome=Lolla room | alt= | site=| email=
+| endereço= | lat= | long= | direções=
+| tel=
+| funcionamento= | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Sala de shows alternativa no mesmo espaço do Crystal Ballroom
+}}
+| nome=Ringlers pub | alt= | site=| email=
+| endereço= | lat= | long= | direções=
+| tel=
+| funcionamento= | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Bar localizado no térreo do Crystal Ballroom. Possui o cardapio de comidas e bebidas do McMenamins
+}}
+
+| nome=Baileys Taproom | alt= | site=| email=
+| endereço=213 SW Broadway  | lat=45.52255 | long=-122.67817 | direções=
+| tel=
+| funcionamento=12h-24h | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=Bar com excelente seleção de chopes artesanais e cidras com 26 opções rotativas. Este bar não serve comida, mas é permitido a entrada com comida de fora.
+}}
+
+| nome=Multnomah Falls | alt= | site= | email=
+| endereço= | lat= | long= | direções=
+| tel=
+| funcionamento= | preço=
+| wikipedia= | wikidata=
+| lastedit=2018-7-8
+| sobre=
+}}
+

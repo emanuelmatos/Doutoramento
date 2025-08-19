@@ -1,0 +1,109 @@
+
+
+{{dados
+| imagem=
+| localização=Image:Russian_Federation_(orthographic_projection)_-_Crimea_disputed.svg|noframe|250px
+| bandeira=Image:Flag of Russia.svg|100px
+| capital=Moscou
+| governo=Federação
+| moeda=Rublo (RUR)
+| área=total: 17.125.187 km&lt;sup&gt;2&lt;/sup&gt;
+| população=143.420.309 (est. 2005)
+| idioma=Guia de conversação russo|Russo
+| religião=Ortodoxos, muçulmanos e ateus
+| eletricidade=220/50Hz (tomada europeia)
+| códigotelefônico=+7
+| tld=.ru
+| fusohorário=UTC +2 a +12
+}}
+
+A Rússia  (ru:Росси́я) é um país Europa|euro-Ásia|asiático, com território cobrindo ambos continentes e grandes cidades. A capital da Rússia é Moscou.
+
+A Rússia, oficialmente Federação Russa ou Federação da Rússia, é um país localizado no norte da Eurásia (Europa e Ásia em conjunto).
+Faz fronteira com os seguintes países (de noroeste para sudeste): Noruega, Finlândia, Estónia, Letónia, Lituânia e Polónia (ambas através de Kaliningrado), Bielorrússia, Ucrânia, Geórgia, Azerbaijão, Cazaquistão, China, Mongólia e Coreia do Norte. Faz também fronteiras marítimas com o Japão (pelo Mar de Okhotsk) e com os Estados Unidos (pelo Estreito de Bering). Com 17.075.400 quilómetros quadrados, a Rússia é o país com maior área do planeta, cobrindo mais de um nono da área terrestre. A Rússia também é o nono país mais populoso, com 142 milhões de habitantes.
+
+A história do país começou com os Eslavos do Leste, que surgiram como um grupo reconhecido na Europa entre os séculos III e VIII.  Fundada e dirigida por uma classe nobre de guerreiros Vikings e pelos seus descendentes, o primeiro Estado Eslavo do Leste, o Principado de Kiev, surgiu no século IX e adotou o Cristianismo Ortodoxo do Império Bizantino em 988, dando início a síntese das culturas Bizantina e Eslava que definiram a cultura Russa. O Principado de Kiev finalmente se desintegrou e suas terras foram divididas em muitos pequenos Estados feudais. O estado sucessor do Principado de Kiev foi Moscóvia, que serviu como a principal força no processo de reunificação da Rússia e na luta de independência contra a Horda de Ouro. Moscóvia gradualmente reunificou os principados russos e passou a dominar o legado cultural e político do Principado de Kiev. Por volta do século XVIII, o país teve grande expansão através da conquista, anexação e exploração de territórios, tornando-se o Império Russo, que foi o terceiro maior império da história e se estendia da Polônia, na Europa, até o Alasca, na América do Norte.
+
+A Rússia domina quase metade da Europa e um terço da Ásia. Este factor faz com a Rússia possua vários climas diferentes. A temperatura média anual é de 5,5 graus centígrados.
+A região mais a norte do país, chamada Sibéria, é a mais fria de todo o país. Registam-se temperaturas no inverno da ordem dos 40 aos 50 graus celsius negativos, às vezes chegando aos 60 graus negativos ou até menos. A Sul, o clima é mais quente, havendo campos e estepes onde as temperaturas chegam aos 8 graus negativos.
+O Verão na Rússia também é variável de região a região registando-se temperaturas médias de 25 °C. Em certos casos extremos, já houve dias em que se registassem temperaturas superiores a 45 °C.
+O frio proveniente da Sibéria alastra-se não só por toda a Rússia como por quase toda a totalidade da Europa e grande parte da Ásia.
+A Rússia é atravessada por quatro climas, ártico, subártico, temperado e subtropical. A ordem das estações pode ser classificada assim: Inverno longo e nevoso - Primavera temperada - Verão curto e quente - Outono chuvoso e varia muito ao longo do território russo[1
+Na zona central da Rússia encontram-se as florestas mais claras, mistas, dominadas por bétulas, álamos, carvalhos. As florestas das zonas centrais estão divididas por estepes. A maior parte de estepes é lavrada e semeada por trigo, centeio, milho, girassol, etc.
+&lt;br clear=all&gt;
+
+{{lista de regiões|
+
+mapa=Russia regions map.png |
+mapatamanho=600px |
+mapatexto=Regiões da Rússia |
+
+região1nome=Noroeste (Rússia)|Noroeste |
+região1cor=#9795aa|
+região1itens= |
+região1descrição= |
+
+região2nome=Central (Rússia)|Central |
+região2cor=#ad92ac |
+região2itens= |
+região2descrição= |
+
+região3nome=Chernozemye|
+região3cor=#8f9271  |
+região3itens= |
+região3descrição= |
+
+região4nome=Meridional (Rússia)|Meridional  |
+região4cor=#85aa90  |
+região4itens= |
+região4descrição= |
+
+região5nome=Volga  |
+região5cor=#adb179  |
+região5itens= |
+região5descrição= |
+
+região6nome=Urais  |
+região6cor=#8eb877  |
+região6itens= |
+região6descrição= |
+
+região7nome=Sibéria  |
+região7cor=#829bad  |
+região7itens= |
+região7descrição= |
+
+região8nome=Extremo Oriental (Rússia)|Extremo Oriental  |
+região8cor=#ad9d94  |
+região8itens= |
+região8descrição= |
+
+região9nome=Caliningrado (província)|Caliningrado  |
+região9cor=#cc6262  |
+região9itens= |
+região9descrição= |
+
+}}
+
+Administrativamente, a Rússia possui 86 subdivisões, com territórios de classes distintas (21 repúblicas, 48 províncias, 7 territórios, 7 distritos autônomos, 1 província autônoma e 2 cidades federais -- Moscou e São Petersburgo)
+
+Os vôos partindo de São Paulo para Moscou pela Aeroflot foram suprimidos. O caminho mais curto e rápido é pela Europa. De lá há vôos para as cidades mais importantes e também para as de médio porte. Além das companhias tradicionais européias, operam ainda no país as companhias de baixo custo, servindo a capital russa (aeroportos internacionais Domodedovo, a 35 km, e Vnukovo, a 28 km) e São Petersburgo (Aeroporto Internacional Pulkovo):
+
+Várias companhias, dentre elas a Eurolines, chegam a diversas cidades russas partindo de várias localidades na Europa, como Varsóvia, Berlim e Paris (esta duas vezes por semana -sáb. e 2ª-, 53h de viagem, € 220 ida e volta, até Moscou, por exemplo).
+
+É possível chegar à Rússia de trem a partir da Finlândia, Alemanha, Polônia, Países Bálticos e Ucrânia. A ferrovia Transmanchuriana liga Pequim à ferrovia Transiberiana, mais precisamente à cidade de Chita, a 6166 km de Moscou. A ferrovia Transmongoliana, une Pequim à Ulaanbataar, capital da Mongólia, e à cidade russa de Ulan-Ude, também na Transiberiana e a 5609 km de Moscou. Alguns sites vendem bilhetes pela internet.
+
+O país tem como principais meios de transporte o trem e o automóvel.
+
+Na Rússia, quase todos carros têm câmeras filmadoras, devido o alto número de acidentes de carro , e as filmagens podem servir de prova em caso de acidente.
+
+Na Rússia estão as maiores ferrovias do mundo. As ferrovias são grandes e muito bem distribuídas.
+
+A Ferrovia Transiberiana corta o país de oeste a leste por 9259 km, de Moscou a Vladivostok, numa viagem que dura mais de 6 dias.
+
+O idioma oficial é o Guia_de_conversação_russo|Russo (русский ou Russkiy em russo).Não espere encontrar falantes de inglês, a não ser nos hotéis, restaurantes e atrações mais chiques de Moscou e São Petersburgo.
+
+Não é possível aprender a linguagem em pouco tempo; concentre-se em decorar algumas frases úteis e o alfabeto cirílico (p.ex. ресторан significa restaurante) e ter uma chance de chance de decifrar nomes de ruas, rótulos, placas etc.
+
+Assista os jogos da Copa do Mundo de 2018, que será realizada no país. Também tem a Copa das Confederações, que acontecerá em 2017.
+

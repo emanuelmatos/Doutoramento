@@ -1,0 +1,95 @@
+
+
+{{dados
+| localização=File:LocationRomania.png
+| bandeira=File:Flag of Romania.svg|100px
+| capital=Bucareste
+| governo=República
+| moeda=Leu
+| área=238.391 km²
+| população=21.698.181 (2002)
+| idioma=Guia de conversação romeno|Romeno
+| religião=Cristãos ortodoxos, minorias católicas, protestantes e muçulmanas
+| eletricidade=220V/50Hz
+| códigotelefônico=40
+| tld=.ro
+| fusohorário=UTC +2/+3
+}}
+
+A Romênia (ou Roménia) é um país dos Bálcãs.
+
+{{lista de regiões
+| mapa=Romania Regions map.png
+| mapatexto=Regiões da Romênia
+| mapatamanho=450px
+| região1nome=Transilvânia
+| região1cor=#71b37b
+| região1itens=
+| região1descrição= Celebrizada nas histórias do Conde Drácula, é uma bela região montanhosa, the most famous region of Romania, a land of medieval castles and towns, dark forests, snowy peaks , the same time a region experiencing rapid economical development, with modern youthful cities, huge shopping centers, massive infrastructure projects etc.
+
+| região2nome=Banat
+| região2cor=#578e86
+| região2itens=
+| região2descrição= Esta província é provavelmente a mais economicamente desenvolvida na Romênia. Ela tem vilas tradicionais alemãs, e grandes florestas com montanhas.
+
+| região3nome=Oltênia
+| região3cor=#b383b3
+| região3itens=
+| região3descrição=The south-western region, with impressive monasteries, caves and health resorts along the mountains in its northern part and a bizarre desert-like area in the south.
+
+| região4nome=Bucovina
+| região4cor=#608860
+| região4itens=
+| região4descrição=This north-eastern region is famous for its Painted Monasteries, tucked away between picturesque rolling hills.
+
+| região5nome=Maramureş
+| região5cor=#dde58b
+| região5itens=
+| região5descrição=The northern-most region, its best known for its timeless villages, traditional wooden churches and beautiful mountain landscape.
+
+| região6nome=Crişana
+| região6cor=#a4c28d
+| região6itens=
+| região6descrição=Na fronteira com a Hungria, this western region is the entry point for most travelers into Romania, who often neglect its Central-European style cities, numerous medieval sites and resorts on the western side of the Apuseni mountains.
+
+| região7nome=Dobrogea
+| região7cor=#c8b7b7
+
+| região7itens=
+| região7descrição=Província costeira cheia de ruínas de antigas cidades Gregas e Romanas, com varios  resorts de verão na Costa do Mar Negro e a beleza natural intocada do Delta do Danúbio ao norte da região. Most ethnically diverse region with many small minority groups
+
+| região8nome=Moldávia (região)|Moldávia
+| região8cor=#c5995c
+| região8itens=
+| região8descrição=Certamente uma das regiões mais extraordinárias da Romênia, oferece uma mistura aprazível de cidades históricas, fortalezas medievais, igrejas, vinho e locais simpáticos.
+
+| região9nome=Valáquia
+| região9cor=#6698bb
+| região9itens=
+| região9descrição=Também conhecida como Muntenia. A capital, Bucareste, fica nesta região, assim como as antigas residências dos príncipes Wallachian e os resorts de montanha no Vale do Prahova. O nome corresponde ao do velho reino de líderes como o notório Vlad Ţepeş (O Empalador).
+}}
+
+Cidadãos portugueses e brasileiros não precisam de visto para visitas. Brasileiros podem ficar até 90 dias.
+Cidadãos de Angola, Moçambique e Cabo Verde precisam tirar o visto e apresentar também uma carta-convite para sua obtenção.
+
+Tem cruzeiros através do Danúbio.
+
+A Romênia tem uma rede de estradas desenvolvidas em comparação com outros países da Europa Central.
+
+A maioria da rede de autoestradas esta situada no sul do país. Também está a ser construída uma grande autoestrada no norte do país para facilitar a circulação.
+As estradas internacionais, também sinalizadas com um (E), ex: E69, são muito boas estradas para circular.
+
+A Companhia Ferroviária Romena (CFR - página em romeno, inglês e francês) opera trens nacionais e internacionais.
+
+Em 2003, o sistema ferroviário da Romênia entrou para a rede Eurailpass, que oferece passes de múltiplas viagens de trem para não-europeus.
+
+Os trens entre a Romênia e a Bulgária são normalmente lentos e muito cheios. A viagem de 600km entre Bucareste e Sofia leva 12 horas.
+
+O Expresso da Dácia, que parte de Viena, proporciona belos panoramas do interior da Transilvânia.
+
+De Budapeste, na Hungria, uma longa viagem (sobretudo o cruzamento da fronteira) passa por Arad em direção a Bucareste.
+
+A língua local é o romeno, um idioma latino que tem raízes em comum e algumas semelhanças com o português. O francês é muito usado como segunda língua, possivelmente mais do que o inglês.
+
+&lt;!--nl:Roemenië--&gt;
+
